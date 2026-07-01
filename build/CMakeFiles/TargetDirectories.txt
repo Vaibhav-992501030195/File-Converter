@@ -1,0 +1,3 @@
+/Users/vaibhavpatidar/Desktop/oss/UniversalFileConverter/build/CMakeFiles/ufc.dir
+/Users/vaibhavpatidar/Desktop/oss/UniversalFileConverter/build/CMakeFiles/edit_cache.dir
+/Users/vaibhavpatidar/Desktop/oss/UniversalFileConverter/build/CMakeFiles/rebuild_cache.dir
